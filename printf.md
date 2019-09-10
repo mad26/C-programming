@@ -15,3 +15,16 @@ return 0;
 }
 
 printing value of expression
+int main()
+{
+printf("%d",4+5);
+return 0;
+}
+
+printing value of variable
+int main()
+{
+int x=5;
+printf("%d",x);
+return 0;
+}
