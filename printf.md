@@ -7,6 +7,8 @@ printf() is used to print messages on screen; here the messages can be of two ty
 ----> printing text as it is.
 ----> printing value of expression or value of variable.
 
+*** Declaration statements are always performed before the action statements
+
 printing text as it is
 int main()
 {
